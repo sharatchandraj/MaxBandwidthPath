@@ -1,0 +1,386 @@
+C:\Users\shara\AppData\Local\Programs\Python\Python35\python.exe C:/Users/shara/Desktop/Sharatchandra_Janapareddy_329006499_629project/driver.py
+********************Graph 0 *******************************
+Number of Vertices 5000
+Average degree of graph 6
+Number of Vertices 5000
+Average degree of graph 1000
+Graphs generated
+********************ITERATION 0 *****************
+source: 2827 	 destination 2067
+Length of sparse edge list 15000
+Length of dense edge list 2500000
+For a sparse graph, no Heap took 2.6200817
+For a sparse graph, Heap took 0.05908060000000015
+For a sparse graph, Kruskals took 0.27144780000000024
+Paths match for Sparse Graph
+DISTANCES MATCH FOR SPARSE GRAPH
+798
+For a dense graph, No Heap took 6.7730221
+For a dense graph, Heap took 5.255058400000001
+For a dense graph, Kruskals took 70.4934055
+DISTANCES MATCH FOR DENSE GRAPH
+999
+********************ITERATION 1 *****************
+source: 3954 	 destination 1003
+Length of sparse edge list 15000
+Length of dense edge list 2500000
+For a sparse graph, no Heap took 2.643710100000007
+For a sparse graph, Heap took 0.2608653000000061
+For a sparse graph, Kruskals took 0.35650329999999997
+DISTANCES MATCH FOR SPARSE GRAPH
+450
+For a dense graph, No Heap took 6.964875400000011
+For a dense graph, Heap took 3.131087100000002
+For a dense graph, Kruskals took 59.61153970000001
+DISTANCES MATCH FOR DENSE GRAPH
+997
+********************ITERATION 2 *****************
+source: 2836 	 destination 2106
+Length of sparse edge list 15000
+Length of dense edge list 2500000
+For a sparse graph, no Heap took 2.417285700000008
+For a sparse graph, Heap took 0.13940180000000169
+For a sparse graph, Kruskals took 0.2387219000000016
+DISTANCES MATCH FOR SPARSE GRAPH
+531
+For a dense graph, No Heap took 7.192763299999996
+For a dense graph, Heap took 1.2904274999999927
+For a dense graph, Kruskals took 59.69050809999999
+DISTANCES MATCH FOR DENSE GRAPH
+998
+********************ITERATION 3 *****************
+source: 1630 	 destination 1537
+Length of sparse edge list 15000
+Length of dense edge list 2500000
+For a sparse graph, no Heap took 2.707560700000016
+For a sparse graph, Heap took 0.07713570000001368
+For a sparse graph, Kruskals took 0.34617709999997714
+DISTANCES MATCH FOR SPARSE GRAPH
+657
+For a dense graph, No Heap took 6.902838099999997
+For a dense graph, Heap took 4.05738869999999
+For a dense graph, Kruskals took 58.4327337
+DISTANCES MATCH FOR DENSE GRAPH
+999
+********************ITERATION 4 *****************
+source: 1191 	 destination 2121
+Length of sparse edge list 15000
+Length of dense edge list 2500000
+For a sparse graph, no Heap took 2.5446735999999532
+For a sparse graph, Heap took 0.10198570000000018
+For a sparse graph, Kruskals took 0.25861220000001595
+DISTANCES MATCH FOR SPARSE GRAPH
+653
+For a dense graph, No Heap took 7.040905000000009
+For a dense graph, Heap took 5.730074600000023
+For a dense graph, Kruskals took 62.00166690000003
+DISTANCES MATCH FOR DENSE GRAPH
+999
+********************Graph 1 *******************************
+Number of Vertices 5000
+Average degree of graph 6
+Number of Vertices 5000
+Average degree of graph 1000
+Graphs generated
+********************ITERATION 0 *****************
+source: 2873 	 destination 2265
+Length of sparse edge list 15000
+Length of dense edge list 2500000
+For a sparse graph, no Heap took 2.471975500000042
+For a sparse graph, Heap took 0.08038510000000088
+For a sparse graph, Kruskals took 0.33299210000001267
+DISTANCES MATCH FOR SPARSE GRAPH
+774
+For a dense graph, No Heap took 8.202015000000017
+For a dense graph, Heap took 3.711279100000013
+For a dense graph, Kruskals took 72.22642560000003
+DISTANCES MATCH FOR DENSE GRAPH
+999
+********************ITERATION 1 *****************
+source: 1339 	 destination 870
+Length of sparse edge list 15000
+Length of dense edge list 2500000
+For a sparse graph, no Heap took 2.4505596000000196
+For a sparse graph, Heap took 0.12545860000000175
+For a sparse graph, Kruskals took 0.35276969999995345
+DISTANCES MATCH FOR SPARSE GRAPH
+775
+For a dense graph, No Heap took 7.4776838000000225
+For a dense graph, Heap took 6.313735000000065
+For a dense graph, Kruskals took 59.46458729999995
+DISTANCES MATCH FOR DENSE GRAPH
+999
+********************ITERATION 2 *****************
+source: 772 	 destination 77
+Length of sparse edge list 15000
+Length of dense edge list 2500000
+For a sparse graph, no Heap took 2.2839195000000245
+For a sparse graph, Heap took 0.14361379999991186
+For a sparse graph, Kruskals took 0.2770321000000422
+DISTANCES MATCH FOR SPARSE GRAPH
+725
+For a dense graph, No Heap took 6.969219599999974
+For a dense graph, Heap took 5.509467599999994
+For a dense graph, Kruskals took 59.7951855
+DISTANCES MATCH FOR DENSE GRAPH
+999
+********************ITERATION 3 *****************
+source: 389 	 destination 657
+Length of sparse edge list 15000
+Length of dense edge list 2500000
+For a sparse graph, no Heap took 2.3467586000000438
+For a sparse graph, Heap took 0.22818689999996877
+For a sparse graph, Kruskals took 0.26038340000002336
+DISTANCES MATCH FOR SPARSE GRAPH
+583
+For a dense graph, No Heap took 7.515148899999986
+For a dense graph, Heap took 4.369931000000065
+For a dense graph, Kruskals took 58.951042500000085
+DISTANCES MATCH FOR DENSE GRAPH
+999
+********************ITERATION 4 *****************
+source: 3424 	 destination 747
+Length of sparse edge list 15000
+Length of dense edge list 2500000
+For a sparse graph, no Heap took 2.4006433000000698
+For a sparse graph, Heap took 0.020095199999900615
+For a sparse graph, Kruskals took 0.2327247000000625
+DISTANCES MATCH FOR SPARSE GRAPH
+803
+For a dense graph, No Heap took 6.633181400000012
+For a dense graph, Heap took 6.03572500000007
+For a dense graph, Kruskals took 55.83630860000005
+DISTANCES MATCH FOR DENSE GRAPH
+999
+********************Graph 2 *******************************
+Number of Vertices 5000
+Average degree of graph 6
+Number of Vertices 5000
+Average degree of graph 1000
+Graphs generated
+********************ITERATION 0 *****************
+source: 3181 	 destination 2762
+Length of sparse edge list 15000
+Length of dense edge list 2500000
+For a sparse graph, no Heap took 2.67036250000001
+For a sparse graph, Heap took 0.19231270000000222
+For a sparse graph, Kruskals took 0.37887339999997494
+DISTANCES MATCH FOR SPARSE GRAPH
+755
+For a dense graph, No Heap took 6.6056665999999495
+For a dense graph, Heap took 4.308373899999992
+For a dense graph, Kruskals took 69.15708649999999
+DISTANCES MATCH FOR DENSE GRAPH
+999
+********************ITERATION 1 *****************
+source: 3097 	 destination 4917
+Length of sparse edge list 15000
+Length of dense edge list 2500000
+For a sparse graph, no Heap took 2.3810574000000315
+For a sparse graph, Heap took 0.05069330000003447
+For a sparse graph, Kruskals took 0.26128619999997227
+DISTANCES MATCH FOR SPARSE GRAPH
+445
+For a dense graph, No Heap took 7.172956999999997
+For a dense graph, Heap took 6.5951473999999735
+For a dense graph, Kruskals took 58.041901699999926
+DISTANCES MATCH FOR DENSE GRAPH
+996
+********************ITERATION 2 *****************
+source: 3084 	 destination 1361
+Length of sparse edge list 15000
+Length of dense edge list 2500000
+For a sparse graph, no Heap took 2.541600399999993
+For a sparse graph, Heap took 0.09492960000000039
+For a sparse graph, Kruskals took 0.3338539999999739
+DISTANCES MATCH FOR SPARSE GRAPH
+750
+For a dense graph, No Heap took 7.3523033999999825
+For a dense graph, Heap took 5.954436099999953
+For a dense graph, Kruskals took 57.97824959999991
+DISTANCES MATCH FOR DENSE GRAPH
+999
+********************ITERATION 3 *****************
+source: 486 	 destination 480
+Length of sparse edge list 15000
+Length of dense edge list 2500000
+For a sparse graph, no Heap took 2.3833639000001767
+For a sparse graph, Heap took 0.15548280000007253
+For a sparse graph, Kruskals took 0.2879324999998971
+DISTANCES MATCH FOR SPARSE GRAPH
+391
+For a dense graph, No Heap took 6.560704099999839
+For a dense graph, Heap took 3.1615942000000814
+For a dense graph, Kruskals took 58.19780900000001
+DISTANCES MATCH FOR DENSE GRAPH
+999
+********************ITERATION 4 *****************
+source: 1557 	 destination 1906
+Length of sparse edge list 15000
+Length of dense edge list 2500000
+For a sparse graph, no Heap took 3.1652569000000312
+For a sparse graph, Heap took 0.14185870000005707
+For a sparse graph, Kruskals took 0.24455369999986942
+Paths match for Sparse Graph
+DISTANCES MATCH FOR SPARSE GRAPH
+773
+For a dense graph, No Heap took 6.933370599999989
+For a dense graph, Heap took 3.315494400000034
+For a dense graph, Kruskals took 54.47254810000004
+DISTANCES MATCH FOR DENSE GRAPH
+999
+********************Graph 3 *******************************
+Number of Vertices 5000
+Average degree of graph 6
+Number of Vertices 5000
+Average degree of graph 1000
+Graphs generated
+********************ITERATION 0 *****************
+source: 234 	 destination 1050
+Length of sparse edge list 15000
+Length of dense edge list 2500000
+For a sparse graph, no Heap took 3.1087265999999545
+For a sparse graph, Heap took 0.05476180000005115
+For a sparse graph, Kruskals took 0.3635450000001583
+DISTANCES MATCH FOR SPARSE GRAPH
+591
+For a dense graph, No Heap took 7.828271600000107
+For a dense graph, Heap took 5.808254000000034
+For a dense graph, Kruskals took 75.78300479999984
+DISTANCES MATCH FOR DENSE GRAPH
+997
+********************ITERATION 1 *****************
+source: 2794 	 destination 1248
+Length of sparse edge list 15000
+Length of dense edge list 2500000
+For a sparse graph, no Heap took 2.6854997000000367
+For a sparse graph, Heap took 0.03413079999995716
+For a sparse graph, Kruskals took 0.232659300000023
+DISTANCES MATCH FOR SPARSE GRAPH
+801
+For a dense graph, No Heap took 7.386556800000108
+For a dense graph, Heap took 5.517266199999995
+For a dense graph, Kruskals took 70.41996570000015
+DISTANCES MATCH FOR DENSE GRAPH
+999
+********************ITERATION 2 *****************
+source: 4177 	 destination 2852
+Length of sparse edge list 15000
+Length of dense edge list 2500000
+For a sparse graph, no Heap took 2.4199195999999574
+For a sparse graph, Heap took 0.1872092999999495
+For a sparse graph, Kruskals took 0.3077949000000899
+DISTANCES MATCH FOR SPARSE GRAPH
+412
+For a dense graph, No Heap took 7.237762199999906
+For a dense graph, Heap took 5.020650400000022
+For a dense graph, Kruskals took 74.55903289999992
+DISTANCES MATCH FOR DENSE GRAPH
+999
+********************ITERATION 3 *****************
+source: 3809 	 destination 429
+Length of sparse edge list 15000
+Length of dense edge list 2500000
+For a sparse graph, no Heap took 4.071773000000121
+For a sparse graph, Heap took 0.46176950000017314
+For a sparse graph, Kruskals took 0.8417588999998316
+DISTANCES MATCH FOR SPARSE GRAPH
+628
+For a dense graph, No Heap took 16.62276760000009
+For a dense graph, Heap took 5.250213699999904
+For a dense graph, Kruskals took 81.7974385
+DISTANCES MATCH FOR DENSE GRAPH
+999
+********************ITERATION 4 *****************
+source: 2398 	 destination 3724
+Length of sparse edge list 15000
+Length of dense edge list 2500000
+For a sparse graph, no Heap took 2.6910906000000523
+For a sparse graph, Heap took 0.01243449999992663
+For a sparse graph, Kruskals took 0.3918909999999869
+DISTANCES MATCH FOR SPARSE GRAPH
+713
+For a dense graph, No Heap took 7.082513000000063
+For a dense graph, Heap took 4.507744499999944
+For a dense graph, Kruskals took 68.13938559999997
+DISTANCES MATCH FOR DENSE GRAPH
+999
+********************Graph 4 *******************************
+Number of Vertices 5000
+Average degree of graph 6
+Number of Vertices 5000
+Average degree of graph 1000
+Graphs generated
+********************ITERATION 0 *****************
+source: 4191 	 destination 1321
+Length of sparse edge list 15000
+Length of dense edge list 2500000
+For a sparse graph, no Heap took 2.4560088000000633
+For a sparse graph, Heap took 0.15599580000002788
+For a sparse graph, Kruskals took 0.2856949999998051
+DISTANCES MATCH FOR SPARSE GRAPH
+508
+For a dense graph, No Heap took 7.479985299999953
+For a dense graph, Heap took 3.731552499999907
+For a dense graph, Kruskals took 72.29998510000019
+DISTANCES MATCH FOR DENSE GRAPH
+999
+********************ITERATION 1 *****************
+source: 3344 	 destination 2187
+Length of sparse edge list 15000
+Length of dense edge list 2500000
+For a sparse graph, no Heap took 3.166742099999965
+For a sparse graph, Heap took 0.17292300000008254
+For a sparse graph, Kruskals took 0.34605519999990975
+DISTANCES MATCH FOR SPARSE GRAPH
+214
+For a dense graph, No Heap took 8.821182399999998
+For a dense graph, Heap took 6.785381600000164
+For a dense graph, Kruskals took 63.43188149999992
+DISTANCES MATCH FOR DENSE GRAPH
+998
+********************ITERATION 2 *****************
+source: 1605 	 destination 3825
+Length of sparse edge list 15000
+Length of dense edge list 2500000
+For a sparse graph, no Heap took 2.415906500000119
+For a sparse graph, Heap took 0.18199349999986225
+For a sparse graph, Kruskals took 0.31509959999993953
+DISTANCES MATCH FOR SPARSE GRAPH
+725
+For a dense graph, No Heap took 6.472709099999975
+For a dense graph, Heap took 5.045458999999937
+For a dense graph, Kruskals took 59.603730899999846
+DISTANCES MATCH FOR DENSE GRAPH
+998
+********************ITERATION 3 *****************
+source: 2138 	 destination 2798
+Length of sparse edge list 15000
+Length of dense edge list 2500000
+For a sparse graph, no Heap took 2.7967782000000625
+For a sparse graph, Heap took 0.26011890000017956
+For a sparse graph, Kruskals took 0.6065022999998746
+Paths match for Sparse Graph
+DISTANCES MATCH FOR SPARSE GRAPH
+734
+For a dense graph, No Heap took 8.80012110000007
+For a dense graph, Heap took 6.424457000000075
+For a dense graph, Kruskals took 57.660646499999984
+DISTANCES MATCH FOR DENSE GRAPH
+998
+********************ITERATION 4 *****************
+source: 1648 	 destination 2699
+Length of sparse edge list 15000
+Length of dense edge list 2500000
+For a sparse graph, no Heap took 2.973073900000145
+For a sparse graph, Heap took 0.0015897999996923318
+For a sparse graph, Kruskals took 0.2431271000000379
+DISTANCES MATCH FOR SPARSE GRAPH
+789
+For a dense graph, No Heap took 6.54882729999963
+For a dense graph, Heap took 1.8994846999999027
+For a dense graph, Kruskals took 54.22357490000013
+DISTANCES MATCH FOR DENSE GRAPH
+999
+
+Process finished with exit code 0
